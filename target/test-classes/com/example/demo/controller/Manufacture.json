@@ -1,0 +1,15 @@
+{
+	"productName": "Cadbery",
+	"batchNumber": 3,
+	"deleteFlag": false,
+	"stage": {
+		"stageFirst": 2,
+		"stageSecond": 1,
+		"stageThird": 4,
+		"stageFouth": 4
+	},
+	"manufacturedEndDate": "2014-01-20'T'10:33:22.435'Z'",
+	"manufacturingStartingDate": "2014-01-20'T'10:33:22.435'Z'",
+	"productCount": 20,
+	"availibility_date": "2014-01-20'T'10:33:22.435'Z'"
+}
